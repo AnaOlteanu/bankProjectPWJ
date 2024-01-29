@@ -1,5 +1,11 @@
 # Banking project with Spring Framework
 Master's backend project designed to demonstrate basic banking features using Spring Framework.
+## Spring concepts used
+- request mapping (controller, service, model, repository)
+- JDBC configuration (hibernate, data validation)
+- entity relationships mapping
+- DTOs, mappers
+- exception handling
 ## Features
 1. **Bank branch management**
   - add new bank branch identified by name, city, address
@@ -25,9 +31,4 @@ Master's backend project designed to demonstrate basic banking features using Sp
   - list the pending transactions
   - list transactions for a given customer
   - settle transaction
-## Spring concepts used
-- request mapping (controller, service, model, repository)
-- JDBC configuration (hibernate, data validation)
-- entity relationships mapping
-- DTOs, mappers
-- exception handling
+
